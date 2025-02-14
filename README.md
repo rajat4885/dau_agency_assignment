@@ -1,3 +1,10 @@
+
+# Download the code in a zip file.
+##Unzip all the files
+- Select the dau_agency_assignment compressed file and move it to desktop or save somewhere.
+- Install LocalWP by doing the steps given below
+
+
 # LocalWP Setup Guide
 
 🚀 **Steps to Install and Run a Website on LocalWP**
